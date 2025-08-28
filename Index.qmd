@@ -1,5 +1,5 @@
 ---
-title: "Basilea III"
+title: "Index"
 author: "Francisco Alvarez"
 format: html
 editor: visual
@@ -26,3 +26,4 @@ Alertas tempranas Un Banco podrá entrar en el esquema de alertas tempranas si i
 La CNBV clasificará a las instituciones en categorías (de la I a la V), para efectos de la instrumentación de medidas correctivas conforme a lo siguiente:
 
 Wikipedia contributors. (s/f). Basilea III. Wikipedia, The Free Encyclopedia. https://es.wikipedia.org/w/index.php?title=Basilea_III&oldid=164723250 (S/f). Gob.mx. https://www.cnbv.gob.mx/Documents/Basilea%203%20en%20M%C3%A9xico%20(v16).pdf Basel Committee membership. (2013, junio 10). Bis.org. https://www.bis.org/bcbs/membership.htm
+
